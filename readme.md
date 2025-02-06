@@ -66,6 +66,7 @@ supports the following requirements.
 - PHP >= 8.1
 - Mbstring PHP Extension
 - Image Processing PHP Extension
+- GD Library(for cropping,Resizing, Adding water mark)
 
 ## Supported Image Libraries
 
